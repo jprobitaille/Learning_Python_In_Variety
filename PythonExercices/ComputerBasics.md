@@ -48,12 +48,12 @@ If Step + 1 == 3:
 
 # Instead, it will print something different
 else:
-  print(somehting I don't want)
+  print("somehting I don't want")
 
 ```
 
 This is an obvious example, but it is a basic "logical" misfunction \
 The computer always does the correct thing, but the way I formulated what I wanted it to do was logically incorrect.
 
-This is, in my oppinion, the first fact a computer programmer must come to terms with. \
-And saldy, or interestingly, this is not easy.
+This is, in my opinion, the first fact a computer programmer must come to terms with. \
+And sadly, or interestingly, this is not easy.
