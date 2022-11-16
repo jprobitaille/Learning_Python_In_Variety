@@ -28,7 +28,7 @@ Because why not...
 And it remains somewhat clear.
 
 
-A second useful trick is to you classes.
+A second useful trick is to use classes.
 
 This is a way to regroup either functions that go together.
 
