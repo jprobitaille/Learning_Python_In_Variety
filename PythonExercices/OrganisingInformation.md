@@ -8,7 +8,7 @@ If I tell you that my function always adds two numbers, and you wrote a function
 
 Scale this on 10 000 lines of code and we've got a big problem.
 
-So to be organised, a few tools and tip existe.
+So to be organised, a few tools and tips existe.
 
 First always write a clear definition of your function : If it does a square root, call it square_root
 
@@ -21,10 +21,11 @@ y = square_root(x) + 3
 OR
 
 ```
-y =  add_three(square_root(x))
-``
+y = add_three(square_root(x))
+```
 
 Because why not...
+And it remains somewhat clear.
 
 
 A second useful trick is to you classes.
@@ -40,3 +41,5 @@ For example : A Person class has the caracteristic of that person's age for exam
 Or Both ! Obviously
 
 Theses are the 2 basic tools
+
+With practice, you learn to notice, what is clear to you, to others, and most importantly : what is not clear to you (or others).
